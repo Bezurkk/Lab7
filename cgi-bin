@@ -1,0 +1,4 @@
+#!/bin/sh
+
+curl -XPUT '172.31.30.216:9200/visitor?pretty'
+
